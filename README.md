@@ -11,6 +11,7 @@ Running OSSN on IIS (We still don't official support IIS) but OSSN works well wi
 
 - Installation of PHP 8.1 C:\PHP\
 - Installation of ioncube loader 12 if using premium social network
+- Enable all required PHP extensions for OSSN see list of required extensions https://www.opensource-socialnetwork.org/wiki/view/706/how-to-install-open-source-social-network
 - Once installed PHP add it into environment variable C:\PHP\
 - Verify environment variable by restarting CMD and run `php -version`
 - Now add FastCGIModule for IIS Under `Handler Mapping`
