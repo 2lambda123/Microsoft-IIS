@@ -4,7 +4,7 @@ Running OSSN on IIS (We still don't official support IIS) but OSSN works well wi
 ## Server creation / Pre-requisites
 
 - Making sure Windows Server 2019 or newer
-- Making sure IIS 10 or larger is setup
+- Making sure IIS 10 or newer is installed
 - Making sure to install CGI for IIS (IIS -> Applications -> CGI when Adding new ROLE), remember to find it you need to click small arrow in the list of IIS.
 
   ![image](https://github.com/opensource-socialnetwork/Microsoft-IIS/assets/805066/bab9ef3d-7d1e-4efb-86d3-0fd0ee30527b)
